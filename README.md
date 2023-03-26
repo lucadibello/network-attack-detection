@@ -1,4 +1,4 @@
-# PacketPatrolAI 
+# PacketPatrolAI
 
 ## Description
 
@@ -16,5 +16,3 @@ The Proposition and Evaluation of the RoEduNet-SIMARGL2021 Network Intrusion Det
 ### Source
 
 [Kaggle link](https://www.kaggle.com/datasets/ashtcoder/network-data-schema-in-the-netflow-v9-format)
-
-
