@@ -65,3 +65,4 @@ target/
 # Additional ignores
 src/data
 .DS_Store
+.vscode
