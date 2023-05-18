@@ -14,7 +14,15 @@ The classification is performed using the following models:
 - Extra Trees Classifier
 - Neural Network (MLPClassifier)
 
-The project is implemented in Python using Jupyter Notebook and several popular libraries, including UMAP, Pandas, NumPy, Scikit-Learn, Matplotlib, and Seaborn.
+The project is implemented in Python using Jupyter Notebook and several popular libraries, including [UMAP](https://umap-learn.readthedocs.io/), [Pandas](https://pandas.pydata.org), [NumPy](https://numpy.org), [Scikit-Learn](https://scikit-learn.org/), [Matplotlib](https://matplotlib.org), and [Seaborn](https://seaborn.pydata.org).
+
+## Notebook
+
+The notebook is accessible [here](./src/network-attack-detection.ipynb) for direct viewing on GitHub. Alternatively, you can use NbViewer to access the notebook via [this link](https://nbviewer.org/github/lucadibello/network-attack-detection/blob/main/src/network-attack-detection.ipynb).
+
+## Presentation
+
+The Keynote presentation in PDF format is accessible [here](./doc/presentation.pdf).
 
 ## Datasets
 
@@ -26,13 +34,6 @@ The dataset is quite large:
 
 - `train_net.csv`: approximately 4 million packets (from 14'066 unique network hosts)
 - `test_net.csv`: approximately 2 million packets (from 6'186 unique network hosts)
-
-
-### Known problems
-
-- Higly imbalanced dataset
-- Dataset too big
-- Many useless features
 
 ### Dataset features
 
